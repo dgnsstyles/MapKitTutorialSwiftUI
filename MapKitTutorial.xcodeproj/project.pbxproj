@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				84B7DCC5264B099B006A2DF9 /* MapKitTutorialApp.swift */,
-				84B7DCC7264B099B006A2DF9 /* ContentView.swift */,
+				84B7DCDA264B0C02006A2DF9 /* View */,
 				84B7DCC9264B099E006A2DF9 /* Assets.xcassets */,
 				84B7DCCE264B099E006A2DF9 /* Info.plist */,
 				84B7DCCB264B099E006A2DF9 /* Preview Content */,
@@ -67,6 +67,14 @@
 				84B7DCCC264B099E006A2DF9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		84B7DCDA264B0C02006A2DF9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				84B7DCC7264B099B006A2DF9 /* ContentView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
